@@ -1,0 +1,1 @@
+This bug occurs when using Tailwind CSS with a framework like Next.js or Nuxt.js. The issue arises when trying to apply Tailwind utility classes to components that are dynamically rendered, or are deeply nested within other components. The classes either don't apply at all or only apply partially.
